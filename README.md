@@ -17,7 +17,7 @@ in Tricity
 
 ### Technology
 
-Used: Java 14, Java EE, Rest API, HTML5, CSS3, Bootstrap, JavaScript, JUnit, Freemarker, Hibernate, mySQL, Docker, Maven, Wildfly.
+Used: Java 11, Java EE, Rest API, HTML5, CSS3, Bootstrap, JavaScript, JUnit, Freemarker, Hibernate, mySQL, Docker, Maven, Wildfly.
 
 ### Requirement
 
@@ -25,11 +25,10 @@ The code is tested on Ubuntu and macOS. Java>=8+ and Maven are required to run t
 
 ### To Do
 - [x] Release 1.3.0 version with full hibernate connection
-- [ ] Refactor REST API logic
 - [ ] Clean testing code
 - [ ] TBA
 
 ### Terminal Application
-Previous repository as 1st part of the project with terminal implementation: [Terminal App](https://github.com/infoshareacademy/jjdzr1-morswiny)
+Previous repository as 1st part of the project with terminal implementation: [Terminal App](https://github.com/mateuszstopyra/Morswiny-Events-Console-App)
 
 
